@@ -1,0 +1,4 @@
+[package]
+org = "rocky"
+name = "weather_data_listener"
+version = "0.1.0"
